@@ -1,0 +1,5 @@
+frontend-intern-task/node_modules
+frontend-intern-task/dist
+frontend-intern-task/.git
+frontend-intern-task/.vercel
+*.zip
