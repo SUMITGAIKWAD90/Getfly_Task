@@ -59,4 +59,4 @@ To get the project up and running locally, follow these steps:
 *   All data is stored in memory and local JSON mock data; data will refresh entirely upon browser refresh, barring the `localStorage` auth token.
 
 ## Deployment
-*(Not currently deployed. Once deployed, link will be added here.)*
+(https://getfly-task.vercel.app/login)
